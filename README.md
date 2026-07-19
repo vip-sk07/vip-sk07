@@ -60,8 +60,8 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vip-sk07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vip-sk07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://ghrs.vercel.app/api?username=vip-sk07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://ghrs.vercel.app/api/top-langs/?username=vip-sk07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
@@ -74,11 +74,13 @@
 
 <div align="center">
 
-[![UIDAI Hackathon](https://github-readme-stats.vercel.app/api/pin/?username=vip-sk07&repo=UIDAI-Data-Hackathon-2026&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/vip-sk07/UIDAI-Data-Hackathon-2026)
-[![Stock Market ML](https://github-readme-stats.vercel.app/api/pin/?username=vip-sk07&repo=stock-market-ml-lab&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/vip-sk07/stock-market-ml-lab)
+[![Vip Assistant](https://ghrs.vercel.app/api/pin/?username=vip-sk07&repo=Vip_Assistant&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/vip-sk07/Vip_Assistant)
+[![UIDAI Hackathon](https://ghrs.vercel.app/api/pin/?username=vip-sk07&repo=UIDAI-Data-Hackathon-2026&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/vip-sk07/UIDAI-Data-Hackathon-2026)
 
-[![OmniShell](https://github-readme-stats.vercel.app/api/pin/?username=vip-sk07&repo=OmniShell&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/vip-sk07/OmniShell)
-[![Smart Beneficiary](https://github-readme-stats.vercel.app/api/pin/?username=vip-sk07&repo=Smart_Beneficiary_Mapping_System_Edition_1&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/vip-sk07/Smart_Beneficiary_Mapping_System_Edition_1)
+[![OmniShell](https://ghrs.vercel.app/api/pin/?username=vip-sk07&repo=OmniShell&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/vip-sk07/OmniShell)
+[![Stock Market ML](https://ghrs.vercel.app/api/pin/?username=vip-sk07&repo=stock-market-ml-lab&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/vip-sk07/stock-market-ml-lab)
+
+[![Smart Beneficiary](https://ghrs.vercel.app/api/pin/?username=vip-sk07&repo=Smart_Beneficiary_Mapping_System_Edition_1&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/vip-sk07/Smart_Beneficiary_Mapping_System_Edition_1)
 
 </div>
 
